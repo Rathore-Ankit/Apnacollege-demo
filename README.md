@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first git Repository
-
-Author by Ankit Rathore
+<br><hr><br><hr>
+Author by Ankit Rathore (Bhopal Madhyapradesh indrapuri sector A)
