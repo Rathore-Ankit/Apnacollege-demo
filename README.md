@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first git Repository
-<br>
+<br><hr>
 Author by Ankit Rathore
